@@ -9,5 +9,5 @@
 | [Memory](https://github.com/FuShaoLei/Memory)              | 基于Github Api打造的图片上传的Android app，支持复制cdn加速链接，mvp架构模式（顺带说一句，这个mvp架构开发起来是真的繁杂啊） |
 | [wanandroid](https://github.com/FuShaoLei/java-wanandroid) | 基于wanandroid的api做的练手android项目，做了一半，胎死腹中   |
 | [little-app](https://github.com/FuShaoLei/little-app)      | 一个音乐播放类app，涉及到四大组件，sqlite，以及viewpager等等知识 |
-|[明日新闻项目](https://github.com/FuShaoLei/NewsProject) | 我的毕业设计，Android端 + 服务器端
+|[NewsProject](https://github.com/FuShaoLei/NewsProject) | 我的毕业设计，Android端 + 服务器端
 
